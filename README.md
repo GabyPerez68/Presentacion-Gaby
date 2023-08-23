@@ -9,7 +9,7 @@ Hola!! Esta es mi presentación personal
 - Dos hijos.
 - Vivo en Los Polvorines.
 - Mi teléfono es[+541135978052](tel:+541135978052 )
-- Mi correo<gaby.68.aries@gmail.com>
+- Mi correo <gaby.68.aries@gmail.com>
 
 ## Ocupación laboral
 - Vendedora oficial de productos Saphirus.
