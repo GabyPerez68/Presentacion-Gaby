@@ -15,7 +15,7 @@ Hola!! Esta es mi presentación personal
 - Vendedora oficial de productos Saphirus.
 
 ## Acerca de mi:
-### Me gusta:
+### Me gusta
 - Mirar peliculas y series de suspenso.
 - Las reuniones familiares.
 - Los paseos con mis hijos y amigas.
