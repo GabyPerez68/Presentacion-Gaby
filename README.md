@@ -18,5 +18,7 @@ Hola!! Esta es mi presentación personal
 ### Me gusta:
 - Mirar peliculas y series de suspenso.
 - Las reuniones familiares.
-- Los paseos con mis hijos y amigas. 
-
+- Los paseos con mis hijos y amigas.
+  
+## Lenguaje de programación favorito
+- JavaScrip
