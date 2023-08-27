@@ -8,7 +8,7 @@ Hola!! Esta es mi presentación personal
 - Tengo 55 años.
 - Dos hijos.
 - Vivo en Los Polvorines.
-- Mi teléfono es[+541135978052](tel:+541135978052 )
+- Mi teléfono es [+541135978052](tel:+541135978052 )
 - Mi correo <gaby.68.aries@gmail.com>
 
 ## Ocupación laboral
