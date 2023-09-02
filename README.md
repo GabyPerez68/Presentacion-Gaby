@@ -5,14 +5,12 @@ Hola!! Esta es mi presentación personal
 ![Esta soy yo](./img/Soy%20yo.jpg)
 
 - Soy estudiante de la Carrera Licenciatura en Gestión de Tecnologías de la Información,
-- Tengo 55 años.
-- Dos hijos.
 - Vivo en Los Polvorines.
-- Mi teléfono es [+541135978052](tel:+541135978052 )
+- Mi teléfono es [(54-11) 35978052](tel:+541135978052)
 - Mi correo <gaby.68.aries@gmail.com>
 
 ## Ocupación laboral
-- Vendedora oficial de productos Saphirus.
+- Vendedora.
 
 ## Acerca de mi:
 ### Me gusta
