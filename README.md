@@ -6,7 +6,7 @@ Hola!! Esta es mi presentación personal
 
 - Soy estudiante de la Carrera Licenciatura en Gestión de Tecnologías de la Información,
 - Vivo en Los Polvorines.
-- Mi teléfono es [(54-11) 35978052](tel:+541135978052)
+- Mi teléfono es [(54-11) 3597-8052](tel:+541135978052)
 - Mi correo <gaby.68.aries@gmail.com>
 
 ## Ocupación laboral
